@@ -22,10 +22,10 @@
 ст. преп., Фадеев В.О.
 
 # Цель работы
-Задание 1.
 Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity.
+# Задание 1.
 
-# Ход работы:
+Ход работы:
 ![image](https://user-images.githubusercontent.com/114394198/197396869-ac504a99-b365-49dd-9941-617db45dbec2.png)
 ![image](https://user-images.githubusercontent.com/114394198/197396882-c8862019-e663-416f-bee0-382ec604a646.png)
 ![image](https://user-images.githubusercontent.com/114394198/197396894-f9cd8a38-1187-44ce-8992-3c5225827aa7.png)
